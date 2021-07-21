@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.androidkun:pulltorefreshrecyclerview:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b34fdb0423c93b9ffcc017f0e9422a2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b34fdb0423c93b9ffcc017f0e9422a2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.androidkun/pulltorefreshrecyclerview/1.1.0/d59e761b7b8449cf4acb4b3cbfc1e9f663e48acb/pulltorefreshrecyclerview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

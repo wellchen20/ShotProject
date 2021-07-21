@@ -1,0 +1,4 @@
+#Mon Jun 28 09:34:56 CST 2021
+base.0=E\:\\ShotProject\\RMaps.Free\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

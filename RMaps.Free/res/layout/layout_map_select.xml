@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/new_list_alarm">
+
+    <TextView
+        android:id="@+id/tv_Yandex"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="Yandex卫星图"
+        android:gravity="center"
+        android:textColor="#ffd634"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ccc"></View>
+
+    <TextView
+        android:id="@+id/tv_BING"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="BING卫星图"
+        android:gravity="center"
+        android:textColor="#ffd634"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#ccc"></View>
+
+    <TextView
+        android:id="@+id/mcmap"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="Microsoft地图"
+        android:gravity="center"
+        android:textColor="#ffd634"/>
+    </LinearLayout>
+</FrameLayout>
